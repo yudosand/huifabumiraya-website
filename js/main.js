@@ -54,7 +54,21 @@ const HUIFA_PRODUCTS = [
   { title: "Three Fresh Meatballs", highlight: false, desc: "Assorted fresh meatballs—mix and match for hotpot, soup, or noodles.", img: "assets/img/51-Three Fresh Meatballs (1).jpg" },
   { title: "Frozen Potato", highlight: false, desc: "Frozen potato bites—crisp up fast in a fryer or air-fryer.", img: "assets/img/52-Frozen Potato (1).jpg" },
   { title: "Hotpot Egg Dumplings", highlight: false, desc: "Egg dumplings made for hotpot—silky texture and satisfying bite in broth.", img: "assets/img/53-Hotpot Egg Dumplings (2).jpg" },
-  { title: "Fish Sausage", highlight: false, desc: "Fish sausage—slice and stir-fry, grill, or add to noodles.", img: "assets/img/54-Fish Sausage (2).jpg" }
+  { title: "Fish Sausage", highlight: false, desc: "Fish sausage—slice and stir-fry, grill, or add to noodles.", img: "assets/img/54-Fish Sausage (2).jpg" },
+  { title: "Premium Deep-Sea Fish Ball", highlight: false, desc: "Premium deep-sea fish ball with a bouncy bite—perfect for hotpot and soups.", img: "assets/img/30-Premium Deep-Sea Fish Ball (1).jpg" },
+  { title: "Shrimp Ball with Corn", highlight: false, desc: "Shrimp ball with sweet corn bits—juicy texture with a light crunch in every bite.", img: "assets/img/31-Shrimp Ball with Corn  (2).jpg" },
+  { title: "Seasoned Chicken Skewer", highlight: false, desc: "Seasoned chicken skewers—easy to grill or air-fry for quick BBQ-style meals.", img: "assets/img/32-Seasoned Chicken Skewer (1).jpg" },
+  { title: "Onion Ring", highlight: true, desc: "Crispy onion rings—golden snack that’s perfect for frying or air-frying.", img: "assets/img/33-Onion Ring (2).jpg" },
+  { title: "Fish Roe Lucky Bag", highlight: false, desc: "Fish roe lucky bag dumplings—rich bite with a pop of roe texture in broth.", img: "assets/img/34-Fish Roe Lucky Bag (2).jpg" },
+  { title: "Spicy Fish Stick", highlight: false, desc: "Spicy fish sticks—bold flavor for hotpot, frying, or quick snacks.", img: "assets/img/37-Spicy Fish Stick (2).jpg" },
+  { title: "Grilled Fish Sticks", highlight: false, desc: "Grilled-style fish sticks—savory and easy to heat for sides or snacks.", img: "assets/img/39-Grilled FIsh Sticks (2).jpg" },
+  { title: "Lobster Flavor Ball", highlight: false, desc: "Lobster-flavored ball—premium seafood aroma with a springy texture.", img: "assets/img/40-Lobster Flavor Ball.jpg" },
+  { title: "Fish Ball with Fish Roe", highlight: false, desc: "Fish ball with fish roe—extra texture with roe pops, great for hotpot.", img: "assets/img/41-Fish Ball with Fish Roe(2).jpg" },
+  { title: "Premium Fuzhou Fish Ball", highlight: true, desc: "Premium Fuzhou fish ball with juicy filling—classic hotpot favorite.", img: "assets/img/42-Premium Fuzhou Fish Ball (2).jpg" },
+  { title: "Shrimp Paste", highlight: false, desc: "Shrimp paste—fragrant and smooth, perfect for hotpot scoops or soups.", img: "assets/img/45-Shrimp Paste (2).jpg" },
+  { title: "Happy Face Formed Chicken Nugget", highlight: false, desc: "Happy-face chicken nuggets—fun, kid-friendly, and easy to air-fry.", img: "assets/img/46-Happy Face Formed Chicken Nugget  (2).jpg" },
+  { title: "Breaded Chicken", highlight: false, desc: "Crispy breaded chicken—quick fry or air-fry for crunchy bites.", img: "assets/img/47-Breaded Chicken (2).jpg" },
+  { title: "Fried Battered Chicken", highlight: true, desc: "Battered chicken bites—light crispy coating, perfect for snack or side dish.", img: "assets/img/48-Fried Battered Chicken (2).jpg" }
 ];
 
 
