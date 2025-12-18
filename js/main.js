@@ -252,6 +252,9 @@ function setupProductSearch(){
   const qEl = document.getElementById("productSearch");
   if(!qEl) return;
   qEl.addEventListener("input", () => renderProductGrid());
+  const countEl = document.getElementById("productCount");
+if (countEl) countEl.textContent = HUIFA_PRODUCTS.length;
+
 }
 
 /* =========================
